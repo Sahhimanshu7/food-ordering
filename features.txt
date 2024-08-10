@@ -1,0 +1,7 @@
+Features for the app :-
+
+1. User Auth/Registration/Profiles
+2. Search/Sort/Filter/Pagination
+3. Manage Restaurant and image upload
+4. Manage cart and stripe checkout
+5. Live order Status
